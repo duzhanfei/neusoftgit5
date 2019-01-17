@@ -9,18 +9,13 @@ li 也开发了一些东西
 
 本地仓库  远程仓库的通信
 
-<<<<<<< HEAD
 好的
 
 下午 master
-=======
+
 
 asdasdg
 
 好的
 
-<<<<<<< HEAD
 下午 dev_zhang
-=======
->>>>>>> 1fe063ff4a0a82dfa55e36c7141dad95483251cf
->>>>>>> ebd3987a074cebffaf282c77dd9ea38fefbd3101
